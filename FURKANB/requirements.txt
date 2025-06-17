@@ -3,3 +3,4 @@ gTTS
 google-generativeai
 python-dotenv
 SpeechRecognition
+flask_cors
