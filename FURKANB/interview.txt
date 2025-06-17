@@ -1,0 +1,162 @@
+What should we know about your life story in a few sentences?
+My name is furkan Khan and i have completed my B.Tech from Jamia millia islamia apart of graduation i have completed my schooling from delhi. My interest include AI,C++ programing. I enjoy working on real life problem so i can contribute to real world as much possible.
+
+What is your super power or strong point ?
+My super power or strong point is i am very dedicated towards my tasks and i am very collaborative. I always enjoy working in team which makes me good team player as well as if required i can lead my team too. I am also excellent communicator which makes me excellent team player.
+
+What are the top 3 areas you’d like to grow in?
+In future i want to grow in areas like Artificial intelligence , team management and research.
+
+What misconception do your coworkers have about you?
+I think others have had the misconception that I'm a workaholic. A few colleagues of mine have actually joked that I must have an identical twin who works simultaneously with me because otherwise there's no way I could accomplish all my goals on my own. While I'm a dedicated employee and I work diligently to ensure I exceed expectations, I think this misconception about my workaholic nature stems from my ability to succeed without much support. I have so many tools that I use to keep myself focused, organized and on task that others don't see when examining my work superficially.
+
+How do you push your boundaries and limits?
+I push my boundaries by actively seeking challenges that help me grow. I set ambitious goals and break them into achievable steps, constantly reflecting on what I can improve. I believe real growth happens outside the comfort zone, so I welcome discomfort as part of the process. Surrounding myself with motivated people, staying open to feedback, and continuously learning allows me to stretch beyond my current limits.
+
+What motivates you to do your best work?
+I’m driven by impact. Knowing that my work contributes to a bigger picture keeps me focused. I also love learning, so the chance to grow every day keeps me motivated.
+
+How do you handle failure or setbacks?
+I treat failure as feedback. I reflect on what went wrong, learn from it, and use it as fuel to improve. Setbacks are just setups for comebacks, in my view.
+
+What does success mean to you?
+To me, success is about growth, purpose, and impact. It’s not just achieving goals—it’s becoming better while making a meaningful difference in the world around me.
+
+How do you handle stress or pressure?
+I stay calm by staying organized. I prioritize tasks, take short breaks to reset, and focus on what I can control. Stress is natural—but how I respond makes all the difference.
+
+What kind of work environment brings out your best?
+I thrive in environments that encourage creativity, collaboration, and open communication. I do best when there’s a balance of autonomy and teamwork, with room to grow and contribute meaningfully.
+
+What are your strengths?
+My key strengths are adaptability, clear communication, and a strong sense of responsibility. I can learn quickly, handle pressure, and collaborate well with diverse teams.
+
+What is your biggest weakness?
+I tend to be a perfectionist, which sometimes slows me down. But I’m learning to balance quality with efficiency and to let go of the need for everything to be flawless.
+
+Where do you see yourself in 5 years?
+In five years, I see myself growing into a leadership role where I can guide teams, drive innovation, and make a meaningful impact in the organization and the industry.
+
+Why should we hire you?
+Because I bring a mix of skills, dedication, and a strong work ethic. I’m not just looking for a job—I’m looking to contribute, learn, and grow with a team that values excellence.
+
+Why do you want to work with us?
+I admire your company’s values and the work you do. I believe this is a place where I can learn, contribute meaningfully, and grow alongside talented people.
+
+How do you handle feedback?
+I see feedback as a gift. I listen carefully, ask questions if needed, and then work on improving myself. I value honest input—it’s how I grow.
+
+Tell me about a time you solved a difficult problem.
+Once, I faced a tight deadline with a technical issue that blocked the project. I broke down the problem, researched fast, and collaborated with a teammate. We fixed it on time—and learned a better process for the future.
+
+How do you prioritize your tasks?
+I start by identifying what’s most important and time-sensitive. I use to-do lists or tools to stay organized and make sure I’m always focused on what moves the needle.
+
+What do you do outside of work?
+I enjoy reading, learning new skills, and exploring creative hobbies like music and design. It keeps me balanced and brings fresh energy to my work.
+
+How do you work under pressure?
+Pressure sharpens my focus. I stay calm, break the task into parts, and act quickly but thoughtfully. It helps me perform at my best.
+
+Can you give a quick summary of who you are?
+Sure! I’m Furkan Khan, a passionate developer from New Delhi with a strong foundation in C++, Python, and machine learning. I love solving real-world problems through AI, and I’ve worked on impactful projects like DiseaseAi and ScreenSolver AI. I’ve also interned at DRDO and YBI Foundation to gain hands-on experience.
+
+Tell us about your internship at DRDO. What did you work on?
+At DRDO, I worked on a steganography application that could securely encode and decode messages within images. It was a great experience applying image processing techniques in a real-world defense setting and seeing how secure data transmission works behind the scenes.
+
+What was the most exciting project you’ve built so far?
+DiseaseAi was the most exciting. It’s a platform I built using Streamlit and Pinecone that helps retrieve medical information efficiently. I designed it to help people in rural areas access medical knowledge faster. It really made me realize how tech can solve critical problems.
+
+How did you create the ScreenSolver AI project and what problem does it solve?
+ScreenSolver AI is a productivity tool I made in Python. It lets users access LLMs from any application—like Notepad—by showing AI-powered suggestions side-by-side. It helps reduce context-switching and boosts focus when working with documents or code.
+
+How do you approach problem-solving in programming?
+I usually break the problem into smaller parts, understand the data structure and constraints, and then apply logic step by step. With over 800 problems solved on platforms like HackerRank and LeetCode, I’ve developed a very structured approach.
+
+You mentioned Business Analytics at YBI Foundation. What did you learn there?
+At YBI Foundation, I worked on real data analysis tasks—preprocessing, visualization, and predictive modeling. I also learned how data can be used to drive decisions, especially for social impact projects.
+
+How do you stay updated with the latest technologies?
+I stay active on GitHub, LinkedIn, and follow developer communities. I also take certifications—like the Prompt Engineering course from Vanderbilt and AI in IoT from Great Learning—to keep learning continuously.
+
+What’s your biggest strength as a software developer?
+I’d say my biggest strength is adaptability. Whether it's building a Streamlit app, working with OCR, or solving complex DSA problems, I enjoy picking up new tools and applying them effectively.
+
+How do you handle failure or bugs in your code?
+I treat bugs as puzzles. I debug systematically, test in smaller chunks, and if needed, research or reach out to communities. I believe every bug teaches you something new.
+
+What achievement are you most proud of?
+Becoming a finalist in Code Gladiators 2024 and qualifying multiple national-level hackathons was special. It gave me confidence that my problem-solving and development skills can compete at a national level.
+
+How do you manage time between projects, internships, and coding practice?
+I maintain a schedule and prioritize tasks based on deadlines and importance. I usually allocate time blocks for DSA practice, project development, and learning new skills.
+
+What are your career goals in the next few years?
+I aim to work in a challenging environment where I can solve real-world problems with AI and software. Eventually, I’d like to lead impactful projects in healthcare or defense tech.
+
+Tell us about the OCR and Gemini-based medicine app you built.
+Sure! I created an app that scans medicine labels using OCR, then uses Gemini AI to fetch detailed information. It has a 95% accuracy rate and can help reduce errors in medicine intake or dosage understanding.
+
+What’s a misconception people have about you?
+People sometimes think I’m quiet, but I’m just focused. Once they work with me, they realize I’m a good listener, a strong team player, and always ready to contribute.
+
+What do you enjoy most—DSA, software dev, or AI?
+I enjoy all three, but what excites me most is building AI-powered applications that solve real problems—especially when I can apply DSA knowledge to make them efficient.
+
+What kind of leader do you admire?
+I admire leaders who are empathetic, clear in vision, and lead by example. A great leader brings out the best in others, not just in themselves.
+
+What are your career goals?
+I want to build a career where I keep growing, contribute to meaningful work, and eventually lead teams toward solving real-world problems with innovation.
+
+Describe your ideal team.
+An ideal team is supportive, collaborative, and open to feedback. Everyone brings their strengths, respects differences, and works toward a common goal.
+
+What motivates you every day?
+The chance to learn something new, solve problems, and make an impact—big or small—keeps me motivated and excited to show up every day.
+
+How do you define success?
+Success means growing every day, helping others, and knowing my work made a difference. It’s not just about results—it’s about the journey and impact.
+
+Describe a challenging situation and how you handled it.
+Once, a project I was leading ran into a last-minute technical roadblock. Instead of panicking, I brought the team together, delegated tasks smartly, and we found a creative workaround just in time.
+
+Do you prefer working independently or in a team?
+I enjoy both. I’m confident working alone when needed, but I also value teamwork—sharing ideas, supporting others, and building something great together.
+
+How do you handle conflict at work?
+I stay calm and listen first. I try to understand all perspectives, communicate openly, and focus on finding a fair solution instead of placing blame.
+
+How do you stay organized?
+I use digital tools and task lists to keep things clear. I set daily priorities and check in regularly on progress to avoid last-minute rushes.
+
+What do you value most in a workplace?
+I value trust, clear communication, and a culture that supports learning and innovation. A positive environment makes everyone do their best work.
+
+Tell me about a goal you set and how you achieved it.
+I once aimed to learn a new programming language in a month. I created a schedule, stuck to daily practice, and completed a mini-project by the end to apply what I learned.
+
+What makes you unique?
+I combine strong technical skills with emotional intelligence. I not only solve problems—I also connect with people and bring calm energy to teams.
+
+What do you do when you feel overwhelmed?
+I pause, breathe, and prioritize. I break things into smaller steps, delegate if needed, and remind myself that progress matters more than perfection.
+
+What’s your biggest professional achievement?
+One of my proudest moments was leading a time-sensitive project under pressure. We delivered ahead of schedule, and the solution helped improve a key workflow significantly.
+
+What would your past manager say about you?
+They’d likely say I’m dependable, focused, and calm under pressure. I take ownership of my work and stay positive, even during tough times.
+
+What are you passionate about?
+I’m passionate about solving real-world problems through technology and learning continuously. I love the feeling of building something that helps people.
+
+How do you deal with mistakes at work?
+I own them, learn from them, and take action to fix things quickly. Mistakes happen, but what matters is how you respond and improve.
+
+How do you stay up to date in your field?
+I follow blogs, attend webinars, and connect with others in the industry. I also like hands-on learning—trying out new tools and technologies myself.
+
+How do you handle multitasking?
+I prioritize clearly and stay focused on one task at a time when possible. If I need to juggle tasks, I use time blocks and planning to stay efficient.
+
